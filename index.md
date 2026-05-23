@@ -1,5 +1,4 @@
----
-layout: home
-title: Dobli Blog
----
-
+    ---
+    layout: home
+    title: Dobli Blog
+    ---
