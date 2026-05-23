@@ -1,3 +1,9 @@
-theme: jekyll-theme-minima
+# Site settings
 title: Dobli Blog
-description: My automated AI-driven blog
+description: "My automated AI-driven blog"
+theme: jekyll-theme-minima
+
+# Build settings
+markdown: kramdown
+highlighter: rouge
+
